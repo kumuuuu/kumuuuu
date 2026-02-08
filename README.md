@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumuuuu&show_icons=true&theme=react&hide_border=true" />
+<img src="https://github-readme-stats-alpha-one-18.vercel.app/api?username=kumuuuu&show_icons=true&theme=react&hide_border=true" />
 
 <br/>
 
@@ -67,7 +67,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumuuuu&layout=compact&theme=react&hide_border=true" />
+<img src="https://github-readme-stats-alpha-one-18.vercel.app/api/top-langs/?username=kumuuuu&layout=compact&theme=react&hide_border=true" />
 
 </div>
 
