@@ -1,111 +1,94 @@
-<!--horizontal divider (gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- h1 -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Kumuditha</h1>
-    </summary>
-  </ul>
-</div>
-
-<!-- snake animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
-<!-- h2 -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Learning by Building. Improving by Shipping.</h2>
-    </summary>
-  </ul>
-</div>
-
-<!-- Intro -->
-- 🔭 I’m currently working with **Kotlin, Spring Boot, TypeScript, Next.js**
-
-- 🌱 I’m learning **backend architecture, clean APIs, and scalable system design**
-
-- ☁️ Interested in **cloud, deployment, and DevOps basics**
-
-- 🧠 Focused on writing **clean, maintainable code**
-
-- 💬 Ask me about **Kotlin, Spring Boot, REST APIs, Next.js**
-
-- 📫 Reach me at **your-email@example.com**
-
-- 🏠 Say hi on Discord – **your-discord-username**
-<!-- Intro end -->
-
-<!-- stats -->
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&count_private=true" />
-  <br/><br/>
-  <img alt="GitHub streak"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark"/>
-
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center"
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&langs_count=10"/>
-
-</td>
-</tr>
-</table>
-</p>
-
-<!-- Technologies -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Technologies I Use 👨‍💻</h2>
-    </summary>
-  </ul>
-</div>
+<h3 align="center">
+  Hi, I'm Kumuditha 👋
+</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,ts,js,react,nextjs,nodejs,postgres,mysql,mongodb,docker,git,github,linux,nginx,postman,vscode&perline=10"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Student;Backend+Focused+Developer;Kotlin+%7C+Spring+Boot;Learning+by+Building&center=true&width=420&height=45">
 </p>
-
-<!-- Connect -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Connect With Me 🤝</h2>
-    </summary>
-  </ul>
-</div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="50"/>
-</a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kumuditha.kumuditha">
 </p>
-
-<!-- profile views -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=3&color=6"/>
-</div>
-
-<!-- divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-Credit: Template inspired by community  
-Last updated: 2026
+- 👨‍💻 Software Engineer student with hands-on internship experience  
+- 🔧 Strong focus on **backend development** and clean APIs  
+- 🧠 Comfortable with **Kotlin, Java 17, Spring Boot (Reactive)**  
+- 🌐 Experience with **Next.js, TypeScript**, and frontend integration  
+- ☁️ Learning **cloud basics, deployment, and DevOps fundamentals**  
+- 📱 Built Android apps using **Jetpack Compose**  
+- 🧩 Interested in scalable systems and real-world problem solving  
+
+---
+
+## 🛠 Tech Stack
+
+### 🔧 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🖥 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kumuuuu&show_icons=true&theme=react&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumuuuu&theme=react&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumuuuu&layout=compact&theme=react&hide_border=true" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kumudithananayakkara/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nanayakkarakumuditha7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h6 align="center">
+Building real things. Learning from mistakes. Improving step by step.
+</h6>
