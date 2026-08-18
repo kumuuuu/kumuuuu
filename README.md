@@ -16,12 +16,12 @@
 
 ---
 
-- 👨‍💻 Software Engineer student with hands-on internship experience  
+- 👨‍💻 Software Engineering graduate with hands-on internship experience  
 - 🔧 Strong focus on **backend development** and clean APIs  
 - 🧠 Comfortable with **Kotlin, Java, Spring Boot (Reactive)**  
 - 🌐 Experience with **Next.js, TypeScript**, and frontend integration  
 - ☁️ Learning **cloud basics, deployment, and DevOps fundamentals** 
-- 🧩 Interested in scalable systems and real-world problem solving  
+- 🧩 Interested in scalable systems and real-world problem-solving  
 
 ---
 
