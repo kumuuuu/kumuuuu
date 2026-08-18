@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Student;Backend+Focused+Developer;Kotlin+%7C+Spring+Boot;Learning+by+Building&center=true&width=420&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Focused+Developer;Java+%7C+Spring+Boot;Learning+by+Building&center=true&width=420&height=45">
 </p>
 
 <p align="center">
