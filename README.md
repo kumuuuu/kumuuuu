@@ -18,10 +18,9 @@
 
 - 👨‍💻 Software Engineer student with hands-on internship experience  
 - 🔧 Strong focus on **backend development** and clean APIs  
-- 🧠 Comfortable with **Kotlin, Java 17, Spring Boot (Reactive)**  
+- 🧠 Comfortable with **Kotlin, Java, Spring Boot (Reactive)**  
 - 🌐 Experience with **Next.js, TypeScript**, and frontend integration  
-- ☁️ Learning **cloud basics, deployment, and DevOps fundamentals**  
-- 📱 Built Android apps using **Jetpack Compose**  
+- ☁️ Learning **cloud basics, deployment, and DevOps fundamentals** 
 - 🧩 Interested in scalable systems and real-world problem solving  
 
 ---
@@ -29,7 +28,6 @@
 ## 🛠 Tech Stack
 
 ### 🔧 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,13 +36,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
